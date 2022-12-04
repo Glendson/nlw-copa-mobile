@@ -11,7 +11,7 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/glendson/nlw-copa-mobile?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/glendson/nlw-copa-mobile?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/glendson/nlw-copa-mobile?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/glendson/nlw-copa-mobile?style=plastic">
   <img alt="License" src="https://img.shields.io/github/license/glendson/nlw-copa-mobile?color=56BEB8">
   <img alt="Github stars" src="https://img.shields.io/github/stars/glendson/nlw-copa-mobile?color=56BEB8" />
 </p>
